@@ -1,6 +1,6 @@
-package com.sottwarearquitecture.product_microservice.repository;
+package com.sotwarearquitecture.product_microservice.repository;
 
-import com.sottwarearquitecture.product_microservice.entity.ProductEntity;
+import com.sotwarearquitecture.product_microservice.entity.ProductEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

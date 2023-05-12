@@ -1,7 +1,7 @@
-package com.sottwarearquitecture.product_microservice.controller;
+package com.sotwarearquitecture.product_microservice.controller;
 
-import com.sottwarearquitecture.product_microservice.entity.ProductEntity;
-import com.sottwarearquitecture.product_microservice.repository.ProductRepository;
+import com.sotwarearquitecture.product_microservice.entity.ProductEntity;
+import com.sotwarearquitecture.product_microservice.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

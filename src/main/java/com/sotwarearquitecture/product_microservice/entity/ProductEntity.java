@@ -1,4 +1,4 @@
-package com.sottwarearquitecture.product_microservice.entity;
+package com.sotwarearquitecture.product_microservice.entity;
 
 
 import lombok.Data;
